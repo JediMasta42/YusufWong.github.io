@@ -1,11 +1,3 @@
-DISCLAIMER: 
-This repository has been created to display my portfolio. For the sake of time, I have
-used a free HTML5 template, courtesy of HTML5UP.net, to allow me to nicely show off my 
-skills a a mechanical engineer and my software capibilities. The following is the README
-of the template, which I have chosen to display in order to give credit to the makers of 
-this template!
-
-
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
